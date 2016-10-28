@@ -19,7 +19,7 @@ Las librerias necesarias para correr correctamente los scripts son los siguiente
 
 ### Instalacion
 
-Visita joelbarranco.com par futuros tutoriales sobre instalacion de algunas librerias asi como de métodos utilizados en los programas.
+Visita [aqui] par futuros tutoriales sobre instalacion de algunas librerias asi como de métodos utilizados en los programas.
 
 ### Desarrollo
 
@@ -42,5 +42,7 @@ MIT
    [SensorKinect]: <https://github.com/avin2/SensorKinect>
    [PyOpenNI]: <https://github.com/jmendeth/PyOpenNI.git>
    [OpenCV]: <http://opencv.org/>
+   [aqui]: <http://joelbarranco.com>
+
 
 
